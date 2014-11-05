@@ -1,0 +1,14 @@
+.condition_select_field {
+    width: 200px;
+}
+.condition_select_operator {
+    width: 150px;
+    margin-left: 10px
+}
+.condition_compare {
+    width: 200px;
+    margin-left: 10px
+}
+.filter_name {
+    width: 400px;
+}

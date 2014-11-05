@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/finder": "2.3.*@dev",
+        "swiftmailer/swiftmailer": "*",
+        "alexbilbie/mongoqb": "*",
+        "phpoffice/phpexcel": "dev-develop"
+    }
+}
